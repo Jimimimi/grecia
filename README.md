@@ -3,7 +3,6 @@
 
 ## Concept
 Political - Economical simulator of fictional `country`  **Grecia**
-`player` begins with local campaign
 
 ***
 ### - Map
