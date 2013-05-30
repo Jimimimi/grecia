@@ -1,9 +1,9 @@
 #Project Grecia 
----
+
 
 ##Concept
 Political - Economical simulator of fictional `country`  **Grecia**
-
+***
 ###Map:
 >* Potential libraries
  + `openlayers`
@@ -18,7 +18,7 @@ Political - Economical simulator of fictional `country`  **Grecia**
 
 ###Indicators
 
-####Economical
+#####Economical
 
 >* GDP
  + per `country`
@@ -30,7 +30,7 @@ Political - Economical simulator of fictional `country`  **Grecia**
  + `inflation`
  + `interest rate`
 
-####Political
+#####Political
 
 
 ***
