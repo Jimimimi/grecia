@@ -1,4 +1,4 @@
-Project Grecia
+Project Grecia `country`
 ======
 
 ##Concept
@@ -13,6 +13,6 @@ Project Grecia
 
 ###Indicators
 * GDP
- + per State
- + per Region
+ + per `country`
+ + per `region`
 *  `somecode`
