@@ -1,16 +1,16 @@
 #Project Grecia 
-
+---
 
 ##Concept
 Political - Economical simulator of fictional `country`  **Grecia**
 
 ###Map:
-* Potential libraries
+>* Potential libraries
  + `openlayers`
  + `mapbox` + `tilemill`
  + 
 
-* Administrative divisions
+>* Administrative divisions
  + `regions` 7 decentralized administrations 
  + `departments` 74 regional units 
  + `cities` 325 municipalities 
@@ -20,17 +20,20 @@ Political - Economical simulator of fictional `country`  **Grecia**
 
 ####Economical
 
-* GDP
+>* GDP
  + per `country`
  + per `region`
  + `growth`
  + `purchasing power`
-* Currency
+>* Currency
  + `exchange rate`
  + `inflation`
  + `interest rate`
-* `inflation`
-* 
+
+####Political
+
+
+***
 
 ##Languages
 Almost certainly javascript or a combination with coffeescript.
