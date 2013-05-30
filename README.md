@@ -34,7 +34,8 @@ Political - Economical simulator of fictional `country`  **Grecia**
 
 ##Languages
 Almost certainly javascript or a combination with coffeescript.
--------------
+
+***
 
 ##Resources
 http://blog.thematicmapping.org/
