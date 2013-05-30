@@ -1,44 +1,65 @@
-#Project Grecia 
+# Project Grecia 
 
 
-##Concept
+## Concept
 Political - Economical simulator of fictional `country`  **Grecia**
+`player` begins with local campaign
+
 ***
-###Map:
+### - Map
 >* Potential libraries
  + `openlayers`
  + `mapbox` + `tilemill`
  + 
 
 >* Administrative divisions
- + `regions` 7 decentralized administrations 
- + `departments` 74 regional units 
- + `cities` 325 municipalities 
+ + 7 decentralized administrations `regions` 
+ + 74 regional units `departments` 
+ + 325 municipalities `cities`  
 
 
-###Indicators
+### - Indicators
 
-#####Economical
+##### Economical
 
 >* GDP
  + per `country`
  + per `region`
- + `growth`
+ + `growth rate`
  + `purchasing power`
+
 >* Currency
  + `exchange rate`
  + `inflation`
  + `interest rate`
 
-#####Political
+>* Trade
+ + `balance`
+ + `partners`
+ + `agreements`
+ 
+>* Debt
+ + `debt/gdp`
+ + `nominal`
+ + outstanding `bond` payments
 
+##### Political
+
+>* asdfdf
+
+##### Social
+
+
+### - Agents
 
 ***
 
 ##Languages
-Almost certainly javascript or a combination with coffeescript.
+javascript / coffeescript
 
 ***
 
 ##Resources
 http://blog.thematicmapping.org/
+
+http://build-failed.blogspot.fr/2012/03/custom-map-tiles-part-2-tilemill.html
