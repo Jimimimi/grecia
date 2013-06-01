@@ -49,7 +49,16 @@ Political - Economical simulator of fictional `country`  **Grecia**
 ##### Social
 
 
-### - Agents
+### - Objects
+
+* `player`
+ + `id`
+ + `type` - Human/AI
+ + points, stats
+* `agent`  - AI. Any type of population
+* `country`- human/AI
+ + `[]` of region IDs
+* `region`
 
 ***
 
